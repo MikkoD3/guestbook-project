@@ -22,6 +22,6 @@ This was a recent small project we did at school. The objectives were:
 6.	/newmessage –route should add an input form to the page template created on part A. From should have fields for the following data: username, country and message and a button which enables user to send it. When the form is submitted, the collected data should be saved as JSON data to the data file generated on step 5. Sample dataset can be seen below:
 
 
-We had been given a demosite from hich we had to work on and we were also allowed to change it. I did'nt spend so much time on the visual side of it, because the project was more about building the server side code. I did well in this project and was able to do the part 6. while some in our class were unable to complete it. To style this I mainly used bootstrap to do some easy css (unlike my spotify project) which turned out fine.
+We had been given a demosite from which we had to work on and we were also allowed to change it. I did'nt spend so much time on the visual side of it, because the project was more about building the server side code. I did well in this project and was able to do the part 6. while some in our class were unable to complete it. To style this I mainly used bootstrap to do some easy css (unlike my spotify project) which turned out fine.
 
 We have a bigger project copming up which will be done with the MEAN stack. This was a small project just to show iave some knowledge in Node.js
